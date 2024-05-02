@@ -1,6 +1,6 @@
 # Notes for linkedin article 'Harnessing LLMs for Streamlined Requirements Discovery Interviews'
 
-Source [here](./Sources/Harnessing%20LLMs%20for%20Streamlined%20Requirements%20Discovery%20Interviews%20|%20LinkedIn.pdf):
+Source [here](./Sources/'Harnessing LLMs for Streamlined Requirements Discovery Interviews | LinkedIn.pdf'):
 
 #### Background:
 Complicated projects require a 'discovery' phase which involves numerous interviews and meetings between business analysys, consultants, project managers, etc.
